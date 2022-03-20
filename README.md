@@ -39,11 +39,7 @@ Nesse projeto usei o [MongoDB](https://docs.mongodb.com/) como banco de dados.
 - No seu terminal, rode o comando para instalar as dependências do projeto: `npm`;
 - Rode o comando para iniciar o servidor (em modo desenvolvimento): `npm run dev`;
 
-Se tudo ocorrer bem, a aplicação vai estar disponível em: **http://localhost:5000**.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+A aplicação vai estar disponível em: **http://localhost:5000**.
 
 ---
 
