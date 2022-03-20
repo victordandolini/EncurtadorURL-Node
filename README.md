@@ -19,10 +19,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="URL Shortener" src=".github/url-shortener.png" width="80%">
-</p>
-
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
