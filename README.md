@@ -7,11 +7,6 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/victordandolini/url-shortener.svg">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/victordandolini/url-shortener.svg">
-</p>
-
-<p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#arrow_forward-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
